@@ -24,11 +24,10 @@ A Java-based login page designed to resemble Facebook's login UI. Built using Sw
 2.Check the "Remember Me" box if you want to stay logged in.
 3.Click the "Log In" button.
 
-**Contributing**
 Contributions are welcome! Please follow these steps:
 
-**Acknowledgments**
-### **Inspired by Facebook's login page design.**
-### **Built with IntelliJ IDEA.**
+###**Acknowledgments**
+**Inspired by Facebook's login page design.**
+**Built with IntelliJ IDEA.**
 
 ---
